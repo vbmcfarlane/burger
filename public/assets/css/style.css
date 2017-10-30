@@ -1,0 +1,27 @@
+* {
+	text-align: center;
+}
+body{
+	background-color: #E8B92D;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+}
+
+.list-group {
+    list-style: decimal inside;
+    
+}
+
+.list-group-item {
+    display: list-item;
+    text-align: left;
+    margin: 25px 0px;
+    padding: 5px 15px;
+
+}
+
+.jumbotron {
+	background-color: #E8B92D;
+}
