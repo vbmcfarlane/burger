@@ -4,12 +4,13 @@
   "description": "Eat-Da-Burger! is a resturant app taht let's ue",
   "main": "sers input the names of burgers they'd like to eat",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vbmcfarlane/burger.git",
-     "start": "node server.js"
+    "url": "git+https://github.com/vbmcfarlane/burger.git"
+     
   },
   "keywords": [
     "burger",
