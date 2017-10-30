@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vbmcfarlane/burger.git"
+    "url": "git+https://github.com/vbmcfarlane/burger.git",
+     "start": "node server.js"
   },
   "keywords": [
     "burger",
