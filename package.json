@@ -2,10 +2,10 @@
   "name": "burger",
   "version": "1.0.0",
   "description": "Eat-Da-Burger! is a resturant app taht let's ue",
-  "main": "sers input the names of burgers they'd like to eat",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
