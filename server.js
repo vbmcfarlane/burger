@@ -1,6 +1,6 @@
 var express = require('express');
 var bodyParser = require('body-parser');
-var methodOverride = require('method-override')
+var methodOverride = require('method-override');
 
 var app = express();
 
@@ -26,6 +26,6 @@ var port = process.env.PORT || 8000;
 
 // app.listen(port, () => console.log("Listening on port %s", port));
 
-server.listen(port, function() {
+app.listen(port, function() {
     console.log("App is running on port " + port);
 });
